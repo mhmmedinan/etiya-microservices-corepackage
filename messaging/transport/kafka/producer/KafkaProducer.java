@@ -1,4 +1,4 @@
-package com.etiya.corepackage.messaging.transport.kafka;
+package com.etiya.corepackage.messaging.transport.kafka.producer;
 
 import com.etiya.corepackage.abstractions.events.Event;
 import com.etiya.corepackage.abstractions.messaging.transport.EventBusProducer;
