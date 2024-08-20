@@ -8,7 +8,6 @@ import java.util.UUID;
 
 @Getter
 @Setter
-@AllArgsConstructor
 public class Event {
     private UUID eventId;
     private String topicName;

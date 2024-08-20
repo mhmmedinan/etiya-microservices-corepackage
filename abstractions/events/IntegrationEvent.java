@@ -8,7 +8,6 @@ import java.util.UUID;
 
 @Getter
 @Setter
-@AllArgsConstructor
 public class IntegrationEvent extends Event {
     private UUID correlationId;
 
